@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: LES TROIS OBJECTIFS DE L’ASSOCIATION PPE
 ---

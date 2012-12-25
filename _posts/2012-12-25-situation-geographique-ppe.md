@@ -1,12 +1,12 @@
----
+ï»¿---
 layout: post
-title: SITUATION GEOGRAPHIQUE ET HISTOIRE D’AGBODRAFO (PORTO SEGURO)
+title: SITUATION GEOGRAPHIQUE ET HISTOIRE Dâ€™AGBODRAFO (PORTO SEGURO)
 ---
 
 {{ page.title }}
 ================
 
-Le canton d’AGBODRAFO anciennement appelé PORTO SEGURO se trouve dans la Région Maritime dans  le sud du TOGO bordé par l’océan Atlantique. Il se trouve pratiquement à mi-chemin entre Lomé la capitale et l’ancienne ville coloniale d’Aného.
-Comme toute la région, AGBODRAFO est  éminemment riche sur le plan culturel et historique. Aussi on y découvre notamment les pratiques animistes et vaudou ainsi que des vestiges de l’esclavage pratiqué sur la côte du Bénin entre le XVII et le XIX siècle.
-Le Lac  Togo de 64 km2 qui regorge de poissons et de vie aquatique, est un des lieux les plus accueillants du pays. C’est aussi un espace  de détente agréable où l’on peut pratiquer des sports nautiques. C’est aussi un endroit rêvé pour aller à la rencontre des pêcheurs ou pour profiter d’une balade en pirogue.
-Evidemment on y trouve des attractions touristiques, des offres de séjours, des hôtels et des restaurants.
+Le canton d'AGBODRAFO anciennement appelÃ© PORTO SEGURO se trouve dans la RÃ©gion Maritime dans  le sud du TOGO bordÃ© par lâ€™ocÃ©an Atlantique. Il se trouve pratiquement Ã  mi-chemin entre LomÃ© la capitale et lâ€™ancienne ville coloniale dâ€™AnÃ©ho.
+Comme toute la rÃ©gion, AGBODRAFO est  Ã©minemment riche sur le plan culturel et historique. Aussi on y dÃ©couvre notamment les pratiques animistes et vaudou ainsi que des vestiges de lâ€™esclavage pratiquÃ© sur la cÃ´te du BÃ©nin entre le XVII et le XIX siÃ¨cle.
+Le Lac  Togo de 64 km2 qui regorge de poissons et de vie aquatique, est un des lieux les plus accueillants du pays. Câ€™est aussi un espace  de dÃ©tente agrÃ©able oÃ¹ l'on peut pratiquer des sports nautiques. Câ€™est aussi un endroit rÃªvÃ© pour aller Ã  la rencontre des pÃªcheurs ou pour profiter dâ€™une balade en pirogue.
+Evidemment on y trouve des attractions touristiques, des offres de sÃ©jours, des hÃ´tels et des restaurants.

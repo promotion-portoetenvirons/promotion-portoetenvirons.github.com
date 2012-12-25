@@ -1,9 +1,9 @@
----
+ï»¿---
 layout: post
-title: NAISSANCE ET BUT DE L’ASSOCIATION PPE
+title: NAISSANCE ET BUT DE Lâ€™ASSOCIATION PPE
 ---
 
 {{ page.title }}
 ================
 
-Déclarée à la Préfecture de Meaux dans la région Seine et Marne (77), l’association PROMOTION PORTO ET ENVIRONS a pour objectif de promouvoir et d’aider les habitants du canton d’AGBODRAFO (PORTO SEGURO) et de ses environs situés dans le sud-est du  TOGO,  dans les domaines culturel, sanitaire et sportif. L’association se veut être un espace de relais au service de la population locale, et a pour ambition la mise en place d’un centre culturel au sein duquel sera mis à disposition des manuels de tout niveau éducatif obtenus à titre gracieux auprès des membres et les donateurs. De même, dans le domaine sportif, elle sera un lieu d’échange par le sport avec des activités et des disciplines très diverses. Dans le domaine sanitaire, l’association fera là aussi office d’un lieu de relais pour fournir aux populations locales et environnantes des matériels de premiers soins obtenus auprès des centres sanitaires locaux ou étrangers au bénéfice des locaux. L’association PPE a pour but ultime de se développer pour étendre son action à d’autres villages et si possible à d’autres régions du pays.
+DÃ©clarÃ©e Ã  la PrÃ©fecture de Meaux dans la rÃ©gion Seine et Marne (77), lâ€™association PROMOTION PORTO ET ENVIRONS a pour objectif de promouvoir et dâ€™aider les habitants du canton dâ€™AGBODRAFO (PORTO SEGURO) et de ses environs situÃ©s dans le sud-est du  TOGO,  dans les domaines culturel, sanitaire et sportif. Lâ€™association se veut Ãªtre un espace de relais au service de la population locale, et a pour ambition la mise en place dâ€™un centre culturel au sein duquel sera mis Ã  disposition des manuels de tout niveau Ã©ducatif obtenus Ã  titre gracieux auprÃ¨s des membres et les donateurs. De mÃªme, dans le domaine sportif, elle sera un lieu dâ€™Ã©change par le sport avec des activitÃ©s et des disciplines trÃ¨s diverses. Dans le domaine sanitaire, lâ€™association fera lÃ  aussi office dâ€™un lieu de relais pour fournir aux populations locales et environnantes des matÃ©riels de premiers soins obtenus auprÃ¨s des centres sanitaires locaux ou Ã©trangers au bÃ©nÃ©fice des locaux. Lâ€™association PPE a pour but ultime de se dÃ©velopper pour Ã©tendre son action Ã  dâ€™autres villages et si possible Ã  dâ€™autres rÃ©gions du pays.

@@ -41,6 +41,7 @@ color: #FFF;
     border: 1px solid #660000;
     color: #FFFFFF;
     margin-bottom: 1px;
+	list-style: none; 
 }
 #nav li a {
     background: none repeat scroll 0 0 #CC0000;

@@ -6,6 +6,10 @@
 /*
 /*****************************************************************************/
 
+.floatL{
+float:left;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;

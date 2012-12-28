@@ -10,6 +10,10 @@
 float:left;
 }
 
+.floatR{
+float:right;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;

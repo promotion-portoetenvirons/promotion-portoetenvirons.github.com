@@ -1,15 +1,15 @@
 ---
 layout: default
 ---
-<section id="main_content" class="floatL"> 
+<div id="main_content_menu"> 
 <ul id="nav">
 		{% for post in site.posts %}
 		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}			
 </ul>
-</section>
-<section id="main_content" class="floatR,inner">    
+</div>
+<div id="main_content">    
 <div id="post">
 {{ content }}
 </div>
-</section>
+</div>

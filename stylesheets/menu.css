@@ -1,35 +1,3 @@
-/*ul {
-list-style-type: none;
-background-image: url(/images/navi_bg.png);
-height: 80px;
-width: 663px;
-margin: auto;
-}
-
-
-li {
-float: left;
-}
-
-ul a {
-background-image: url(/images/navi_bg_divider.png);
-background-repeat: no-repeat;
-background-position: right;
-padding-right: 32px;
-padding-left: 32px;
-display: block;
-line-height: 80px;
-text-decoration: none;
-font-family: Georgia, "Times New Roman", Times, serif;
-font-size: 21px;
-color: #371C1C;
-}
-
-ul a:hover {
-color: #FFF;
-}
-*/
-
 #nav {
     list-style: none outside none;
     margin: 0;
@@ -37,17 +5,18 @@ color: #FFF;
     width: 200px;
 }
 #nav li {
-    background: none repeat scroll 0 0 #CC0000;
-    border: 1px solid #660000;
-    /*color: #FFFFFF;*/
-	color: #222222;
+    /*background: none repeat scroll 0 0 #CC0000;*/
+	background: none repeat scroll 0 0 #222222;
+    /*border: 1px solid #660000;*/
+	border: 1px solid #222222;
+    color: #FFFFFF;
     margin-bottom: 1px;
 	list-style: none; 
 }
 #nav li a {
-    background: none repeat scroll 0 0 #CC0000;
-    /*color: #FFFFFF;*/
-	color: #222222;
+    /*background: none repeat scroll 0 0 #CC0000;*/
+	background: none repeat scroll 0 0 #222222;
+    color: #FFFFFF;
     display: block;
     font: 1em/1em "Trebuchet MS",Arial,sans-serif;
     padding: 4px 0;

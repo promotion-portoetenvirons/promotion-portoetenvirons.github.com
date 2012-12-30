@@ -24,7 +24,7 @@
     text-decoration: none;
 }
 #nav li a:hover, #nav li a:focus, #nav li a:active {
-    background: none repeat scroll 0 0 #990000;
+    /*background: none repeat scroll 0 0 #990000;*/
     text-decoration: underline;
 } 
 

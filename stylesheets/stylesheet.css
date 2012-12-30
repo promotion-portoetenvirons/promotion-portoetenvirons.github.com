@@ -270,6 +270,11 @@ Full-Width Styles
   width: 100%;
 }
 
+.inner_menu {
+  position: relative;
+  max-width: 200px;
+}
+
 .inner {
   position: relative;
   max-width: 640px;

@@ -271,7 +271,7 @@ Full-Width Styles
 }
 
 .inner_menu {
-  position: relative;
+  position: absolute;
   max-width: 200px;
 }
 

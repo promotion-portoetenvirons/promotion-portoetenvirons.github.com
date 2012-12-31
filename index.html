@@ -12,7 +12,10 @@ title: promotion porto et environs
 </div>
 
 <div id="main_content" class="inner">    
-	{% include naissance-but-ppe.md %}
+	{% capture about_content %}
+		{% include naissance-but-ppe.md %}
+	{% endcapture %}
+	{{ about_content | unindent | markdownify }}
 </div> 
 				
 		

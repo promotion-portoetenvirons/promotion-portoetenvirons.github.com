@@ -1,5 +1,5 @@
 ---
-layout: include
+layout: naissance-but-ppe
 ---
 
 ## NAISSANCE ET BUT DE L’ASSOCIATION PPE

@@ -1,2 +1,7 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
 markdown: rdiscount
 pygments: true
+rdiscount:
+  extensions: []

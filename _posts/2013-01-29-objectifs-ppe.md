@@ -6,7 +6,7 @@ title: LES TROIS OBJECTIFS DE L’ASSOCIATION PPE
 {{ page.title }}
 ================
 
-EDUCACATION
+EDUCATION
 -----------
 
 Le  premier objectif du volet éducatif est tout simplement la création d’un centre de lecture, et même démunis d’éducation alphabétique. Le centre PPE d’information et d’éducation souhaiterait surtout que les élèves de tous les nivaux, du primaire à la terminale des collèges et lycées viennent s’y documenter. Une autre ambition de l’association est de promouvoir l’art traditionnel de la région dans une petite galerie exposant masques, statuettes, photos et dessins. Ce dernier projet valoriserait probablement l’histoire de la région très riche en évènements.

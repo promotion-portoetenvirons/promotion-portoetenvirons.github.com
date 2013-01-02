@@ -1,8 +1,8 @@
 
 <div class="figure" markdown="1">
 
-![BatimentRoyal](/images/100_2270.JPG "Bâtiment où régna le roi Togno Assiakoley Séwavi kpé (vue  de la cour). ")
+![BatimentRoyal](/images/100_2270.JPG "BÃ¢timent oÃ¹ rÃ©gna le roi Togno Assiakoley SÃ©wavi kpÃ© (vue  de la cour).")
 
-Bâtiment où régna le roi Togno Assiakoley Séwavi kpé (vue  de la cour). Apéto Homé où se tient la quasi totalité des manifestations de réjouissance ou de malheur. C’est également ici que viennent se reccueillir auprès des aïeuls les populations « Guins » du Ghana, Bénin et parfois du Nigéria dont sont issus les habitants de Porto Seguro dans la quasi majorité.
+BÃ¢timent oÃ¹ rÃ©gna le roi Togno Assiakoley SÃ©wavi kpÃ© (vue  de la cour). ApÃ©to HomÃ© oÃ¹ se tient la quasi totalitÃ© des manifestations de rÃ©jouissance ou de malheur. Câ€™est Ã©galement ici que viennent se reccueillir auprÃ¨s des aÃ¯euls les populations Â« Guins Â» du Ghana, BÃ©nin et parfois du NigÃ©ria dont sont issus les habitants de Porto Seguro dans la quasi majoritÃ©.
 
 </div>

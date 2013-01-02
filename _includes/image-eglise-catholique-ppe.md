@@ -1,9 +1,9 @@
 
 <div class="figure" markdown="1">
 
-![EgliseCatholique](/images/IMG_0142.JPG "Eglise catholique d’Agbodrafo")
+![EgliseCatholique](/images/IMG_0142.JPG "Eglise catholique dâ€™Agbodrafo")
 
-Eglise catholique d’Agbodrafo (mission) , située quelques centaines de mètres de la plage. Par manque d’entretien, les conséquences climatiques ont eu des effets dévastateurs sur cet édifice qui date de l’époque coloniale.
-Le culte protestant d’Agbodrafo est situé plus au nord de la ville du côté du Lac Togo. Les habitants d’Agbodrafo sont dans leur majorité des Protestants. La mission protestante de Brême (Bremen ) a été la première à s’installer sur la côte du temps du protectorat allemand. Aussi cet édifice a bénéficié de la proximité de la polulation donc plus d’attention et de soin. Bien que proche des préceptes bibliques, les habitants n’en sont pas moins proches des croyances traditionnelles et des pratiques du vaudou (Togbé nou).
+Eglise catholique dâ€™Agbodrafo (mission) , situÃ©e quelques centaines de mÃ¨tres de la plage. Par manque dâ€™entretien, les consÃ©quences climatiques ont eu des effets dÃ©vastateurs sur cet Ã©difice qui date de lâ€™Ã©poque coloniale.
+Le culte protestant dâ€™Agbodrafo est situÃ© plus au nord de la ville du cÃ´tÃ© du Lac Togo. Les habitants dâ€™Agbodrafo sont dans leur majoritÃ© des Protestants. La mission protestante de BrÃªme (Bremen ) a Ã©tÃ© la premiÃ¨re Ã  sâ€™installer sur la cÃ´te du temps du protectorat allemand. Aussi cet Ã©difice a bÃ©nÃ©ficiÃ© de la proximitÃ© de la polulation donc plus dâ€™attention et de soin. Bien que proche des prÃ©ceptes bibliques, les habitants nâ€™en sont pas moins proches des croyances traditionnelles et des pratiques du vaudou (TogbÃ© nou).
 
 </div>

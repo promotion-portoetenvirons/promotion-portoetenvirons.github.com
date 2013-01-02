@@ -12,10 +12,10 @@ title: promotion porto et environs
 </div>
 
 <div id="main_content" class="inner">    
-		{% capture include_to_textilize %}
-		{% include naissance-but-ppe.textile %}
+		{% capture include_to_markdown %}
+		{% include naissance-but-ppe.md %}
 		{% endcapture %}
-		{{ include_to_textilize | textilize }}
+		{{ include_to_markdown | markdownify }}
 </div> 
 				
 		

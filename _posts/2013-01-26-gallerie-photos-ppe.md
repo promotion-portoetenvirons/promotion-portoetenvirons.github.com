@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gallerie de photos d’Agbodrafo
+title: GALLERIE DE PHOTOS Dâ€™AGBODRAFO
 ---
 
 {{ page.title }}

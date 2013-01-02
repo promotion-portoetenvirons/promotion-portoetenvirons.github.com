@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Ressources et budget
+title: RESSOURCES ET BUDGET
 ---
 
 {{ page.title }}
 ================
 
-Pour démarrer cette aventure, les fondateurs et inititeurs de cette association n’ont aucun budget spécifique en dehors de leurs deniers personnels qui sont plutôt limités. Notre envie de réaliser un rêve a pris le pas sur de gros moyens financiers avant de se lancer.
-Evidemment, dans les statuts de l’association, nous avions déclaré aux autorités de la Préfecture de Meaux (77 Seine et Marne) que nous comptions sur des droits d’entrée et de cotisations,  plus des dons d’organismes publics et privés.
-Nous comptons donc sur votre générosité pour nous aider à promouvoir notre association.
+Pour dÃ©marrer cette aventure, les fondateurs et inititeurs de cette association nâ€™ont aucun budget spÃ©cifique en dehors de leurs deniers personnels qui sont plutÃ´t limitÃ©s. Notre envie de rÃ©aliser un rÃªve a pris le pas sur de gros moyens financiers avant de se lancer.
+Evidemment, dans les statuts de lâ€™association, nous avions dÃ©clarÃ© aux autoritÃ©s de la PrÃ©fecture de Meaux (77 Seine et Marne) que nous comptions sur des droits dâ€™entrÃ©e et de cotisations,  plus des dons dâ€™organismes publics et privÃ©s.
+Nous comptons donc sur votre gÃ©nÃ©rositÃ© pour nous aider Ã  promouvoir notre association.

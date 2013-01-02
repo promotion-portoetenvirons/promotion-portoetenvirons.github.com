@@ -1,16 +1,16 @@
 var sliderOptions=
 {
 	sliderId: "slider",
-	effect: "1,4,5,6,7,8,9,12,13,14,15,17",
+	effect: "13,17,13,13,5",
 	effectRandom: true,
 	pauseTime: 2600,
 	transitionTime: 500,
-	slices: 11,
-	boxes: 7,
+	slices: 12,
+	boxes: 9,
 	hoverPause: true,
 	autoAdvance: true,
-	captionOpacity: 0.6,
-	captionEffect: "rotate",
+	captionOpacity: 1,
+	captionEffect: "fade",
 	thumbnailsWrapperId: "thumbs",
 	m: false,
 	license: "mylicense"

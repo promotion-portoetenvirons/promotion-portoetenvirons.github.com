@@ -12,7 +12,7 @@
 }
      
 #slider {
-    width:650px;height:650px;/* Make it the same size as your images */
+    width:3888px;height:2592px;/* Make it the same size as your images */
 	background:black url(/images/loading.gif) no-repeat 50% 50%;
 	position:relative;
 	margin:0 auto;/*make the image slider center-aligned */

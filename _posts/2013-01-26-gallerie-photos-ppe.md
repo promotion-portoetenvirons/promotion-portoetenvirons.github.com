@@ -5,7 +5,8 @@ title: GALLERIE DE PHOTOS D’AGBODRAFO
 
 {{ page.title }}
 ================
-<div id="slider" markdown="1">
+<div id="sliderFrame">
+<div id="slider">
 {% capture include_image1_to_markdown %}
 	{% include image-batiment-royal-ppe.md %}
 {% endcapture %}
@@ -15,4 +16,5 @@ title: GALLERIE DE PHOTOS D’AGBODRAFO
 	{% include image-eglise-catholique-ppe.md %}
 {% endcapture %}
 {{ include_image2_to_markdown | markdownify }}
+</div>
 </div>

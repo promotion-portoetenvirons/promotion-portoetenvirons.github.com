@@ -16,5 +16,15 @@ title: GALLERIE DE PHOTOS D’AGBODRAFO
 	{% include image-eglise-catholique-ppe.md %}
 {% endcapture %}
 {{ include_image2_to_markdown | markdownify }}
+
+{% capture include_image3_to_markdown %}
+	{% include image-ceremonie-vaudou-ppe.md %}
+{% endcapture %}
+{{ include_image3_to_markdown | markdownify }}
+
+{% capture include_image4_to_markdown %}
+	{% include image-foule-vaudou-ppe.md %}
+{% endcapture %}
+{{ include_image4_to_markdown | markdownify }}
 </div>
 </div>

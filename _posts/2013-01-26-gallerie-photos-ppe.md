@@ -26,5 +26,10 @@ title: GALLERIE DE PHOTOS D’AGBODRAFO
 	{% include image-foule-vaudou-ppe.md %}
 {% endcapture %}
 {{ include_image4_to_markdown | markdownify }}
+
+{% capture include_image5_to_markdown %}
+	{% include image-activites-peche-ppe.md %}
+{% endcapture %}
+{{ include_image5_to_markdown | markdownify }}
 </div>
 </div>

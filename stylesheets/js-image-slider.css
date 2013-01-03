@@ -3,7 +3,7 @@
 /*slider frame*/
 #sliderFrame 
 {
-    width:720px;
+    width:750px;
     margin:20px auto; /*this makes the image slider center-aligned. Remove this line if you want to align the whole slider to the left side*/
     padding:20px;
     background:#191919;

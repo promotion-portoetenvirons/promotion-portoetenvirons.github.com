@@ -6,8 +6,8 @@ categories: menuppe
 
 {{ page.title }}
 ================
-<div id="sliderFrame">
-<div id="slider">
+<div id="sliderFrame" markdown="1">
+<div id="slider" markdown="1">
 {% capture include_image1_to_markdown %}
 	{% include image-batiment-royal-ppe.md %}
 {% endcapture %}

@@ -34,7 +34,7 @@
 /* Caption styles */
 div.mc-caption-bg, div.mc-caption-bg2 {
 	position:absolute;
-	width:400px;
+	width:500px;
 	height:auto;
 	padding:10px;
 	left: 100px; /*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/

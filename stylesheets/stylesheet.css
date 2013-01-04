@@ -272,17 +272,20 @@ Full-Width Styles
 
 .inner_menu {
   position: absolute;
-  max-width: 200px;
+  /*max-width: 200px;*/
+  max-width: 25%;
 }
 
 .inner_header {
   position: absolute;
-  max-width: 200px;
+  /*max-width: 200px;*/
+  max-width: 25%;
 }
 
 .inner {
   position: relative;
-  max-width: 640px;
+  /*max-width: 640px;*/
+  max-width: 60%;
   min-height:200px;
   padding: 20px 10px;
   margin: 0 auto;

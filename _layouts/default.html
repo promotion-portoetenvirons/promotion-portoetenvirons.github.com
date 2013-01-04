@@ -20,6 +20,12 @@
           <h1 id="project_title">PROMOTION PORTO ET ENVIRONS</h1>
           <h2 id="project_tagline">EDUCATION-SANTE-SPORT</h2>
         </div>
+		<div class="inner_header">
+			{% capture include_carte_togo %}
+			{% include image-carte-togo-ppe.md %}
+			{% endcapture %}
+			{{ include_carte_togo | markdownify }}
+		</div>
     </div>
 
     <!-- MAIN CONTENT -->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: RESSOURCES ET BUDGET
+categories: menuppe
 ---
 
 {{ page.title }}

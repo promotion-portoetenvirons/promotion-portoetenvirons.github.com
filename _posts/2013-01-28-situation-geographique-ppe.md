@@ -1,6 +1,7 @@
 ---
 layout: post
 title: SITUATION GEOGRAPHIQUE ET HISTOIRE D’AGBODRAFO (PORTO SEGURO)
+categories: menuppe
 ---
 
 {{ page.title }}

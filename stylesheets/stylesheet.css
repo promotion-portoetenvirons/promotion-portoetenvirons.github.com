@@ -284,6 +284,14 @@ Full-Width Styles
   position: relative;
   /*max-width: 640px;*/
   max-width: 60%;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+.inner_body {
+  position: relative;
+  /*max-width: 640px;*/
+  max-width: 60%;
   min-height:400px;
   padding: 20px 10px;
   margin: 0 auto;

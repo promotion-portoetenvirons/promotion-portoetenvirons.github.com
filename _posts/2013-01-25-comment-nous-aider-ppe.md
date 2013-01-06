@@ -7,4 +7,4 @@ categories: menuppe
 {{ page.title }}
 ================
 
-[Télécharger coupon réponse](/downloads/coupon_reponse_don.pdf)
+[Télécharger coupon réponse](/downloads/coupon_reponse_don.pdf){:target="_blank"}

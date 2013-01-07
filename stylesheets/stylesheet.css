@@ -272,7 +272,6 @@ Full-Width Styles
   position: absolute;
   /*max-width: 200px;*/
   max-width: 25%;
-  margin: 0px 0px 10px 10px;
 }
 
 .inner_header {
@@ -296,7 +295,7 @@ Full-Width Styles
   max-width: 60%;
   min-height:400px;
   padding: 20px 10px;
-  margin: 0 auto;
+ /* margin: 0 auto; */
 }
 
 #forkme_banner {
@@ -390,10 +389,12 @@ Full-Width Styles
 
 #main_content {
   padding-top: 40px;
+  margin: 0px 0px 10px 10px;
 }
 
 #main_content_menu {
   padding-top: 40px;
+  margin: 0px 0px 10px 10px;
 }
 
 #footer_wrap {

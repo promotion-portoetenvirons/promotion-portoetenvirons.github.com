@@ -271,7 +271,7 @@ Full-Width Styles
 .inner_menu {
   position: absolute;
   /*max-width: 200px;*/
-  max-width: 25%;
+  max-width: 20%;
 }
 
 .inner_header {
@@ -283,19 +283,19 @@ Full-Width Styles
 .inner {
   position: relative;
   /*max-width: 640px;*/
-  max-width: 60%;
+  max-width: 100%;
   min-height:200px;
   padding: 20px 10px;
-  margin: 0 auto;
+  margin: 0 25%;
 }
 
 .inner_body {
   position: relative;
   /*max-width: 640px;*/
-  max-width: 65%;
+  max-width: 100%;
   min-height:400px;
   padding: 20px 10px;
-  margin: 0 auto; 
+  margin: 0 25%; 
 }
 
 #forkme_banner {

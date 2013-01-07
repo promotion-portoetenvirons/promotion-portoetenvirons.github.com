@@ -415,9 +415,28 @@ Small Device Styles
   }
 
   .inner {
-    min-width: 320px;
-    max-width: 480px;
+	position: relative;
+    min-width: 67%;
+    max-width: 100%;
+	margin: 0 25%; 
   }
+  
+  .inner_menu {
+  position: absolute;
+  max-width: 20%;
+  margin: 0 25%; 
+}
+
+  .inner_header {
+  position: absolute;
+  max-width: 25%;
+}
+
+.inner_body {
+  position: relative;
+  max-width: 100%;
+  margin: 0 25%; 
+}
 
   #project_title {
   font-size: 32px;

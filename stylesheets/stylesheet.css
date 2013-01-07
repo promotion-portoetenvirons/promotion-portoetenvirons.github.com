@@ -272,6 +272,7 @@ Full-Width Styles
   position: absolute;
   /*max-width: 200px;*/
   max-width: 25%;
+  margin: 0px 0px 10px 10px;
 }
 
 .inner_header {

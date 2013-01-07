@@ -292,7 +292,7 @@ Full-Width Styles
 .inner_body {
   position: relative;
   /*max-width: 640px;*/
-  max-width: 60%;
+  max-width: 65%;
   min-height:400px;
   padding: 20px 10px;
   margin: 0 auto; 
@@ -389,7 +389,6 @@ Full-Width Styles
 
 #main_content {
   padding-top: 40px;
-  margin: 0px 0px 10px 10px;
 }
 
 #main_content_menu {

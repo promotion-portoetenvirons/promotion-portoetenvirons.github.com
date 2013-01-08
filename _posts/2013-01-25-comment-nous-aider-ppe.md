@@ -7,6 +7,10 @@ categories: menuppe
 {{ page.title }}
 ================
 
-[Télécharger coupon réponse](/downloads/coupon_reponse_don.pdf){:target="_blank"}
+<div id="lien_externe" markdown="1">
+[Télécharger le coupon de réponse](/downloads/coupon_reponse_don.pdf)
+</div>
 
-[Télécharger autorisation prélèvement](/downloads/coupon_prelevement_don.pdf){:target="_blank"}
+<div id="lien_externe" markdown="1">
+[Télécharger l'autorisation de prélèvement](/downloads/coupon_prelevement_don.pdf)
+</div>

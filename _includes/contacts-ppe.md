@@ -1,5 +1,5 @@
 
-<div class="inner_footer" markdown="1">
+<div class="inner" markdown="1">
 
 PRESIDENT: Kpoti Sikeli LASSEY 
 

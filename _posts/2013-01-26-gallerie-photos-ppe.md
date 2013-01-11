@@ -8,9 +8,9 @@ categories: menuppe
 
 <div id="sliderFrame" markdown="1">
 <div id="slider" markdown="1">
-{% for post in page.categories.photosppe %}
+{% for page in page.categories.photosppe %}
  <div class="figure" markdown="1">
-  ![{{ post.caption }}]({{ post.image }} {{ post.imagetitle }})
+  ![{{ page.caption }}]({{ page.image }} {{ page.imagetitle }})
  </div>
 {% endfor %}
 </div>

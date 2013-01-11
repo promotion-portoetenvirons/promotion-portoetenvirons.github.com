@@ -10,7 +10,7 @@ categories: menuppe
 <div id="slider" markdown="1">
 {% for post in site.categories.photosppe %}
  <div class="figure" markdown="1">
-  ![{{ page.caption }}]({{ page.image }} {{ page.imagetitle }})
+  ![{{ post.page.caption }}]({{ post.page.image }} {{ post.page.imagetitle }})
  </div>
 {% endfor %}
 </div>

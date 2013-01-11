@@ -37,9 +37,9 @@
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
-	   {% capture include_contact_ppe %}
+	    {% capture include_contact_ppe %}
 			{% include contacts-ppe.md %}
-			{% endcapture %}
+		{% endcapture %}
 	   {{ include_contact_ppe | markdownify }}
     </div>
 

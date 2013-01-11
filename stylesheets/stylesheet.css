@@ -280,11 +280,19 @@ Full-Width Styles
   max-width: 25%;
 }
 
-.inner_footer {
+.inner_footerL {
+  position: relative;
+  /*max-width: 200px;*/
+  max-width: 25%;
+  margin: 0 25%;
+}
+
+.inner_footerR {
   position: absolute;
   /*max-width: 200px;*/
   max-width: 25%;
   margin: 0 25%;
+  float:right;
 }
 
 .inner {

@@ -10,7 +10,7 @@ categories: menuppe
 <div id="slider" markdown="1">
 {% for post in site.categories.photosppe %}
  <div class="figure" markdown="1">
-  <img alt="{{post.caption}}" src="{{ post.image }}" title="{{post.imagetitle}}"/>
+  <img alt="{{post.caption}}" src="{{ post.image }}" title="{{post.imagetitle}}" markdown="1" />
  </div>
 {% endfor %}
 </div>

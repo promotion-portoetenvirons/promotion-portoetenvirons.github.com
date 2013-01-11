@@ -4,8 +4,7 @@ title: SITUATION GEOGRAPHIQUE ET HISTOIRE D’AGBODRAFO (PORTO SEGURO)
 categories: menuppe
 ---
 
-{{ page.title }}
-================
+## {{ page.title }}
 
 Le canton d'AGBODRAFO anciennement appelé PORTO SEGURO se trouve dans la Région Maritime dans  le sud du TOGO bordé par l’océan Atlantique. Il se trouve pratiquement à mi-chemin entre Lomé la capitale et l’ancienne ville coloniale d’Aného.
 Comme toute la région, AGBODRAFO est  éminemment riche sur le plan culturel et historique. Aussi on y découvre notamment les pratiques animistes et vaudou ainsi que des vestiges de l’esclavage pratiqué sur la côte du Bénin entre le XVII et le XIX siècle.

@@ -4,8 +4,7 @@ title: COMMENT NOUS AIDER
 categories: menuppe
 ---
 
-{{ page.title }}
-================
+## {{ page.title }}
 
 <div id="lien_externe" markdown="1">
 [Télécharger le coupon de réponse](/downloads/coupon_reponse_don.pdf)

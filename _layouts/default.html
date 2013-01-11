@@ -25,8 +25,8 @@
 			{{ include_carte_togo | markdownify }}
 		</div>
         <div class="inner">
-          <h1 id="project_title">PROMOTION PORTO ET ENVIRONS</h1>
-          <h2 id="project_tagline">EDUCATION-SANTE-SPORT</h2>
+          <h2 id="project_title">PROMOTION PORTO ET ENVIRONS</h1>
+          <h3 id="project_tagline">EDUCATION-SANTE-SPORT</h2>
         </div>
     </div>
 
@@ -37,12 +37,10 @@
 
     <!-- FOOTER  -->
     <div id="footer_wrap" class="outer">
-      <div class="inner">
-        <p>Email : <a href="#">promotion.portoee@orange.fr </a></p>
-		<p>Boîte Postale 52</p>
-		<p>Agbodrafo / Porto Seguro</p>
-		<p>Préfecture des Lacs  TOGO</p>
-      </div>
+	   {% capture include_contact_ppe %}
+			{% include contacts-ppe.md %}
+			{% endcapture %}
+	   {{ include_contact_ppe | markdownify }}
     </div>
 
               

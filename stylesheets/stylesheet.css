@@ -284,6 +284,7 @@ Full-Width Styles
   position: absolute;
   /*max-width: 200px;*/
   max-width: 25%;
+  margin: 0 25%;
 }
 
 .inner {

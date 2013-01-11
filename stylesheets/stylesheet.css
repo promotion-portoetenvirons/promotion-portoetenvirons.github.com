@@ -285,6 +285,7 @@ Full-Width Styles
   /*max-width: 200px;*/
   max-width: 25%;
   margin: 0 25%;
+  float:left;
 }
 
 .inner {

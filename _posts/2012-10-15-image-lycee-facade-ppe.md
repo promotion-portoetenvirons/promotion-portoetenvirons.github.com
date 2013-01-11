@@ -1,8 +1,7 @@
 ---
 layout: post
 categories: photosppe
+image: /images/image_lycee_facade.JPG
+caption: Lycée Agbodrafo
+imagetitle: Lycée Agbodrafo
 ---
-
-<div class="figure" markdown="1">
-![Lycée Agbodrafo](/images/image_lycee_facade.JPG "Lycée Agbodrafo")
-</div>

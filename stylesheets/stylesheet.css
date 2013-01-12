@@ -280,6 +280,13 @@ Full-Width Styles
   max-width: 25%;
 }
 
+.inner_headerR {
+  position: relative;
+  max-width: 25%;
+  margin: 0 25%;
+  float:right;
+}
+
 .inner_footerL {
   position: absolute;
   /*max-width: 200px;*/

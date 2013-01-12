@@ -282,18 +282,16 @@ Full-Width Styles
 
 .inner_headerL {
   position: relative;
-  max-width: 100%;
+  max-width: 80%;
   min-height:200px;
   padding: 20px 10px;
   margin: 0 25%;
-  float:left;
 }
 
 .inner_headerR {
   position: relative;
   max-width: 25%;
   margin: 0 50%;
-  float:right;
 }
 
 .inner_footerL {

@@ -280,6 +280,15 @@ Full-Width Styles
   max-width: 25%;
 }
 
+.inner_headerL {
+  position: relative;
+  max-width: 100%;
+  min-height:200px;
+  padding: 20px 10px;
+  margin: 0 25%;
+  float:left;
+}
+
 .inner_headerR {
   position: relative;
   max-width: 25%;
@@ -289,7 +298,6 @@ Full-Width Styles
 
 .inner_footerL {
   position: absolute;
-  /*max-width: 200px;*/
   max-width: 25%;
   margin: 0 25%;
   float:left;
@@ -297,7 +305,6 @@ Full-Width Styles
 
 .inner_footerR {
   position: relative;
-  /*max-width: 200px;*/
   max-width: 25%;
   margin: 0 25%;
   float:right;
@@ -314,7 +321,6 @@ Full-Width Styles
 
 .inner_body {
   position: relative;
-  /*max-width: 640px;*/
   max-width: 100%;
   min-height:400px;
   padding: 20px 10px;

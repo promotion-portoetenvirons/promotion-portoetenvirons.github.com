@@ -6,6 +6,7 @@ categories: menuppe
 
 ## {{ page.title }}
 
+<div class="floatL" markdown="1">
 <div id="sliderFrame" markdown="1">
 <div id="slider" markdown="1">
 {% for post in site.categories.photosppe %}
@@ -14,9 +15,13 @@ categories: menuppe
  </div>
 {% endfor %}
 </div>
-<div id="mcts1">
+</div>
+</div>
+<div class="floatL" markdown="1">
+<div id="mcts1" markdown="1">
   {% for post in site.categories.photosppe %}
    ![]({{ post.thumbnail }} "{{ post.imagetitle }}")  
   {% endfor %}  
 </div>
 </div>
+<div style="clear:both;" markdown="1"></div>

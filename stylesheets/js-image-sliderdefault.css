@@ -35,7 +35,7 @@ div.mc-caption-bg, div.mc-caption-bg2 {
 	height:auto;
 	padding:0;
 	left:0px; /*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/
-	top:380px;/*if the caption needs to be aligned from bottom, specify by bottom instead of bottom. i.e. top:150px;*/
+	top:400px;/*if the caption needs to be aligned from bottom, specify by bottom instead of bottom. i.e. top:150px;*/
 	z-index:3;
 	overflow:hidden;
 	font-size: 0;

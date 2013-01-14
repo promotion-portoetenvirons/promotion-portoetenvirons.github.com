@@ -23,9 +23,6 @@ categories: menuppe
   {% for post in site.categories.photosppe %}
    ![]({{ post.thumbnail }} "{{ post.imagetitle }}")  
   {% endfor %}  
-  <a class="navPrev" onselectstart="return false" markdown="1"></a>
-  <a class="navPause" onselectstart="return false" title="Pause" markdown="1"></a>
-  <a class="navNext" onselectstart="return false" markdown="1"></a>
 </div>
 </div>
 <div style="clear:both;" markdown="1"></div>

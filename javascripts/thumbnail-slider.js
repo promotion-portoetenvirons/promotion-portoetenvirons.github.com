@@ -10,7 +10,7 @@ var mct1_Options =
     scrollByEachThumb: true,
     circular: true,
     largeImageSlider: imageSlider,
-    inSyncWithLargeImageSlider: true,
+    inSyncWithLargeImageSlider: false,
     license: "mylicense" 
 };
 

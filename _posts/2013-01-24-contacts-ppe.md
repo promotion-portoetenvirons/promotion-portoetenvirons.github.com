@@ -6,8 +6,6 @@ categories: menuppe
 
 ## {{ page.title }}
 
-| obj | obj |
-
 | Nom et prénom | <input id="nometprenom" type="text" name="nometprenom" /> |
 
 | Adresse mail  | <input id="mail" type="text" name="mail" />   |

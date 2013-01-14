@@ -15,8 +15,10 @@ categories: menuppe
 {% endfor %}
 </div>
 <div id="thumbs">
+  {% for post in site.categories.photosppe %}
   <div class="thumb">
    ![]({{ post.thumbnail }} "{{ post.imagetitle }}")
-  </div>            
+  </div>   
+  {% endfor %}  
 </div>
 </div>

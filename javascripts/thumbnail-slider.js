@@ -6,11 +6,11 @@ var mct1_Options =
     scrollInterval: 2100,
     scrollDuration: 600,
     hoverPause: true,
-    autoAdvance: false,
+    autoAdvance: true,
     scrollByEachThumb: true,
     circular: true,
     largeImageSlider: imageSlider,
-    inSyncWithLargeImageSlider: false,
+    inSyncWithLargeImageSlider: true,
     license: "mylicense" 
 };
 

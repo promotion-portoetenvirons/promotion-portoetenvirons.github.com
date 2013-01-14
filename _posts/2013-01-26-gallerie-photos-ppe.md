@@ -6,7 +6,7 @@ categories: menuppe
 
 ## {{ page.title }}
 
-<div class="sliderPost" markdown="1">
+<div id="sliderPost" markdown="1">
 <div class="floatL" markdown="1">
 <div id="sliderFrame" markdown="1">
 <div id="slider" markdown="1">

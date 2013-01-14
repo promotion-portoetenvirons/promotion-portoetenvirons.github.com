@@ -3,7 +3,7 @@
 #sliderFrame {position:relative;width:600px;margin:0;}
 
 #slider {
-    width:600px;height:228px;/* Make it the same size as your images */
+    width:500px;height:380px;/* Make it the same size as your images */
 	background:#fff url(/images/loading.gif) no-repeat 50% 50%;
 	position:relative;
 	margin:0;
@@ -26,11 +26,11 @@
 /* Caption styles */
 div.mc-caption-bg, div.mc-caption-bg2 {
 	position:absolute;
-	width:600px;
+	width:500px;
 	height:auto;
 	padding:0;
 	left:0px; /*if the caption needs to be aligned from right, specify by right instead of left. i.e. right:20px;*/
-	top:270px;/*if the caption needs to be aligned from bottom, specify by bottom instead of bottom. i.e. top:150px;*/
+	top:350px;/*if the caption needs to be aligned from bottom, specify by bottom instead of bottom. i.e. top:150px;*/
 	z-index:3;
 	overflow:hidden;
 	font-size: 0;

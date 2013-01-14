@@ -3,7 +3,7 @@
 #sliderFrame {position:relative;width:600px;margin:0;}
 
 #slider {
-    width:600px;height:228px;/* Make it the same size as your images */
+    width:500px;height:330px;/* Make it the same size as your images */
 	background:#fff url(/images/loading.gif) no-repeat 50% 50%;
 	position:relative;
 	margin:0;

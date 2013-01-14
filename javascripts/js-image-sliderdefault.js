@@ -8,7 +8,7 @@ var sliderOptions =
     slices: 12,
     boxes: 8,
     hoverPause: false,
-    autoAdvance: false,
+    autoAdvance: true,
     captionOpacity: 1,
     captionEffect: "fade",
     thumbnailsWrapperId: "thumbs",

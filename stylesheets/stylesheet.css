@@ -270,14 +270,13 @@ Full-Width Styles
 
 .inner_menu {
   position: absolute;
-  /*max-width: 200px;*/
   max-width: 20%;
 }
 
 .inner_header {
   position: absolute;
-  /*max-width: 200px;*/
   max-width: 25%;
+  margin:0 10px;
 }
 
 .inner_headerL {
@@ -285,7 +284,18 @@ Full-Width Styles
   max-width: 80%;
   min-height:200px;
   padding: 20px 10px;
-  margin: 0 25%;
+  margin: 0 20%;
+}
+
+.inner_subheaderL {
+  position: absolute;
+  float:left;
+}
+
+.inner_subheaderR {
+  position: absolute;
+  float:right;
+  margin: 0 100%;
 }
 
 .inner_footerL {

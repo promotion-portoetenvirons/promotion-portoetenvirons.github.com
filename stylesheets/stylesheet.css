@@ -288,12 +288,6 @@ Full-Width Styles
   margin: 0 25%;
 }
 
-.inner_headerR {
-  position: relative;
-  max-width: 25%;
-  margin: 0 50%;
-}
-
 .inner_footerL {
   position: absolute;
   max-width: 25%;

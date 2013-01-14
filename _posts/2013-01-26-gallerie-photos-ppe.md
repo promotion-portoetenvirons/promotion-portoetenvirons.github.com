@@ -14,4 +14,9 @@ categories: menuppe
  </div>
 {% endfor %}
 </div>
+<div id="thumbs">
+  <div class="thumb">
+   ![]({{ post.thumbnail }} "{{ post.imagetitle }}")
+  </div>            
+</div>
 </div>

@@ -1,0 +1,30 @@
+#nav {
+    list-style: none outside none;
+    margin: 0px 0px 10px 10px;
+    padding: 0;
+    width: 95%;
+}
+#nav li {
+    /*background: none repeat scroll 0 0 #CC0000;*/
+	background: none repeat scroll 0 0 #01DE17;
+    /*border: 1px solid #660000;*/
+	border: 1px solid #222222;
+    color: #FFFFFF;
+    margin-bottom: 1px;
+	list-style: none; 
+}
+#nav li a {
+    /*background: none repeat scroll 0 0 #CC0000;*/
+	background: none repeat scroll 0 0 #01DE17;
+    color: #FFFFFF;
+    display: block;
+    font: 1em/1em "Trebuchet MS",Arial,sans-serif;
+    padding: 4px 0;
+    text-align: center;
+    text-decoration: none;
+}
+#nav li a:hover, #nav li a:focus, #nav li a:active {
+    /*background: none repeat scroll 0 0 #990000;*/
+    text-decoration: underline;
+} 
+

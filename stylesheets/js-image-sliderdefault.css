@@ -1,14 +1,9 @@
 /* http://www.menucool.com */
 
-#sliderFrame {
-position:relative;
-width:750px;
-height:700px;
-margin:0;
-}
+#sliderFrame {position:relative;width:600px;margin:0;}
 
 #slider {
-	width:700px;height:550px;/* Make it the same size as your images */
+    width:600px;height:228px;/* Make it the same size as your images */
 	background:#fff url(/images/loading.gif) no-repeat 50% 50%;
 	position:relative;
 	margin:0;

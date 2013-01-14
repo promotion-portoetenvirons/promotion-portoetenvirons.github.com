@@ -17,7 +17,7 @@ categories: menuppe
 </div>
 </div>
 </div>
-<div class="floatR" markdown="1">
+<div class="floatL" markdown="1">
 <div id="mcts1" markdown="1">
   {% for post in site.categories.photosppe %}
    ![]({{ post.thumbnail }} "{{ post.imagetitle }}")  

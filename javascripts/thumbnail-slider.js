@@ -6,7 +6,7 @@ var mct1_Options =
     scrollInterval: 2100,
     scrollDuration: 600,
     hoverPause: true,
-    autoAdvance: true,
+    autoAdvance: false,
     scrollByEachThumb: true,
     circular: true,
     largeImageSlider: imageSlider,

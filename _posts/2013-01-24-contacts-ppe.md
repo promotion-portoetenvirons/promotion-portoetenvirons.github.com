@@ -7,21 +7,21 @@ categories: menuppe
 ## {{ page.title }}
 
 <label for="nometprenom" markdown="1">Nom et prénom </label> 
-<input id="nometprenom" type="text" name="nometprenom" markdown="1" />
+<input id="nometprenom" type="text" name="nometprenom" markdown="1" size="30" maxlength="30" />
 <br/>
 
 <label for="mail" markdown="1">Adresse mail </label> 
-<input id="mail" type="text" name="mail" markdown="1" /> 
+<input id="mail" type="text" name="mail" markdown="1" size="30" maxlength="30" /> 
 <br/>
 
 <label for="mailconfirm" markdown="1">Adresse mail confirmation </label> 
-<input id="mailconfirm" type="text" name="mailconfirm" /> 
+<input id="mailconfirm" type="text" name="mailconfirm" size="30" maxlength="30" /> 
 <br/>
 
 <label for="objet" markdown="1">Objet </label> 
-<input id="objet" type="text" name="objet" markdown="1" />
+<input id="objet" type="text" name="objet" markdown="1" size="30" maxlength="30" />
 <br/>
 
 <label for="messagecontact" markdown="1">Message </label> 
-<textarea id="messagecontact" name="messagecontact" markdown="1" />Votre Message</textarea>
+<textarea id="messagecontact" name="messagecontact" rows="10" cols="50">Votre Message</textarea>
 <br/>

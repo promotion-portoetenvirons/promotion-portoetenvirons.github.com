@@ -6,7 +6,8 @@ categories: menuppe
 
 ## {{ page.title }}
 
-<label for="nometprenom" markdown="1">Nom et prénom</label> <input id="nometprenom" type="text" name="nometprenom" markdown="1"/>
+<label for="nometprenom" markdown="1">Nom et prénom</label> 
+<input id="nometprenom" type="text" name="nometprenom" markdown="1"/>
 
 <label for="mail" markdown="1">Adresse mail</label> <input id="mail" type="text" name="mail" markdown="1" /> 
 

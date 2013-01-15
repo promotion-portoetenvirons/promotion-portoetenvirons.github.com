@@ -30,6 +30,12 @@ float:left;
 float:right;
 }
 
+label{
+    display: block;
+    width: 150px;
+    float: left;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;

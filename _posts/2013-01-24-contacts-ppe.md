@@ -23,5 +23,5 @@ categories: menuppe
 <br/>
 
 <label for="messagecontact" markdown="1">Message </label> 
-<textarea id="messagecontact" name="messagecontact" markdown="1" />
+<textarea id="messagecontact" name="messagecontact" markdown="1" />Votre Message</textarea>
 <br/>

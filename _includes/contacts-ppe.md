@@ -16,7 +16,7 @@ Portable : +33(0)679377284
 </div>
 <div class="inner_footerR" markdown="1">
 
-VICE PRESIDENT : Sewa Amen LASSEY
+VICE PRESIDENT : Sewa Amen Arthur LASSEY
   
 QUALITE: Association de bienfaisance  
 

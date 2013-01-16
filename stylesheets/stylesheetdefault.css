@@ -295,13 +295,13 @@ Full-Width Styles
 .inner_subheaderR1 {
   position: absolute;
   float:right;
-  margin: -1% 0 95%;
+  margin: -2% 0 0 95%;
 }
 
 .inner_subheaderR2 {
   position: absolute;
   float:right;
-  margin: -1% 0 110%;
+  margin: -2% 0 0 110%;
 }
 
 .inner_footerL {

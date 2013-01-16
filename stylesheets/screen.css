@@ -40,6 +40,10 @@ input{
   width:65%;
 }
 
+button{
+   margin-left:200px;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;

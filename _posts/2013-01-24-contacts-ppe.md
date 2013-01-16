@@ -26,5 +26,5 @@ categories: menuppe
 <textarea id="messagecontact" name="messagecontact" rows="10" cols="47">Votre Message</textarea>
 <br/>
 
-<input type="button" value="Envoyer formulaire" name="Submit" /> 
+<button type="button">Envoyer formulaire</button>
 <br/>

@@ -16,5 +16,6 @@ categories: menuppe
 <br/>
 
 <button type="submit">Envoyer formulaire</button>
+<button type="reset">Effacer</button>
 <br/>
 </form>

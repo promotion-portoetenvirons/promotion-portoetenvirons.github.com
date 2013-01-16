@@ -2,6 +2,7 @@
 layout: post
 title: CONTACTS
 categories: menuppe
+published: false
 ---
 
 ## {{ page.title }}
@@ -26,5 +27,5 @@ categories: menuppe
 <textarea id="messagecontact" name="messagecontact" rows="10" cols="47">Votre Message</textarea>
 <br/>
 
-<button type="button">Envoyer formulaire</button>
+<button type="submit">Envoyer formulaire</button>
 <br/>

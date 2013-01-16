@@ -30,17 +30,17 @@ float:left;
 float:right;
 }
 
-form.label{
+label{
     display: block;
     width: 200px;
     float: left;
 }
 
-form.input{
+input{
   width:65%;
 }
 
-form.button{
+button{
    margin-left:200px;
 }
 

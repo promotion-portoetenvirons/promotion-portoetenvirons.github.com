@@ -32,7 +32,7 @@ float:right;
 
 label{
     display: block;
-    width: 200px;
+    width: 160px;
     float: left;
 }
 
@@ -41,7 +41,7 @@ input{
 }
 
 button{
-   margin-left:200px;
+   margin-left:160px;
 }
 
 ul.posts {

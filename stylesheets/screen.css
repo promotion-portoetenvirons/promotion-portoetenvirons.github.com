@@ -30,7 +30,7 @@ float:left;
 float:right;
 }
 
-label{
+form.label{
     display: block;
     width: 200px;
     float: left;
@@ -40,7 +40,7 @@ input{
   width:65%;
 }
 
-button{
+form.button{
    margin-left:200px;
 }
 

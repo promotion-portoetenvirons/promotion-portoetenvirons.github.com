@@ -25,3 +25,6 @@ categories: menuppe
 <label for="messagecontact" markdown="1">Message </label> 
 <textarea id="messagecontact" name="messagecontact" rows="10" cols="47">Votre Message</textarea>
 <br/>
+
+<input type="button" value="Envoyer formulaire" name="Submit" /> 
+<br/>

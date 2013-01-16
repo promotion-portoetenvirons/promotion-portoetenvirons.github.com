@@ -292,10 +292,16 @@ Full-Width Styles
   float:left;
 }
 
-.inner_subheaderR {
+.inner_subheaderR1 {
   position: absolute;
   float:right;
-  margin: 0 100%;
+  margin: 0 90%;
+}
+
+.inner_subheaderR2 {
+  position: absolute;
+  float:right;
+  margin: 0 95%;
 }
 
 .inner_footerL {

@@ -7,7 +7,6 @@ categories: menuppe
 ## {{ page.title }}
 
 <form action="mailto:promotion.portoetenvirons@gmail.com" markdown="1">
-
 <label for="subject" markdown="1">Objet </label> 
 <input id="subject" type="text" name="subject" markdown="1" maxlength="40" />
 <br/>
@@ -18,5 +17,4 @@ categories: menuppe
 
 <button type="submit">Envoyer formulaire</button>
 <br/>
-
 </form>

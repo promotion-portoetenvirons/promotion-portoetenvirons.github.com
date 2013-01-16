@@ -36,7 +36,7 @@ form.label{
     float: left;
 }
 
-input{
+form.input{
   width:65%;
 }
 

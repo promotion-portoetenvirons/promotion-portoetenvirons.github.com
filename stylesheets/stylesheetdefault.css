@@ -462,22 +462,53 @@ Small Device Styles
     display: none;
   }
 
-  .inner {
+.inner {
 	position: relative;
     min-width: 67%;
     max-width: 100%;
 	margin: 0 25%; 
   }
   
-  .inner_menu {
+.inner_menu {
   position: absolute;
   max-width: 20%;
   margin: 0 25%; 
 }
 
-  .inner_header {
+.inner_header {
   position: absolute;
   max-width: 25%;
+}
+
+.inner_headerL {
+  position: relative;
+  max-width: 80%;
+  min-height:230px;
+  padding: 20px 10px;
+  margin: 0 20%;
+}
+
+.inner_subheaderL {
+  position: absolute;
+  float:left;
+}
+
+.inner_subheaderR1 {
+  position: absolute;
+  float:right;
+  margin: -2% 0 0 95%;
+}
+
+.inner_subheaderR2 {
+  position: absolute;
+  float:right;
+  margin: -2% 0 0 110%;
+}
+
+.inner_subheaderR3 {
+  position: absolute;
+  float:right;
+  margin: 22% 0 0 110%;
 }
 
 .inner_body {

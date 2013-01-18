@@ -2,6 +2,7 @@ source:      .
 destination: ./_site
 includes:    ./_includes
 markdown: kramdown
+server_port: 4000
 pygments: true
 kramdown:
   auto_ids: true,

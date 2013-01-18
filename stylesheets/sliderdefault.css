@@ -43,7 +43,7 @@
 #mcts1 .navPrev, #mcts1 .navNext, #mcts1 .navPlay, #mcts1 .navPause 
 {
     width:29px; height:29px;
-    position:absolute; top:370px;
+    position:absolute; top:390px;
     background:url(/images/navButtons.png); 
     display:block; z-index:5; cursor:pointer;
 }

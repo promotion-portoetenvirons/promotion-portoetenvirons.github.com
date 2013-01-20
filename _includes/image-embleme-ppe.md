@@ -1,2 +1,2 @@
 
-![Embleme PPE](/images/image_embleme_ppe_100.jpg "Embleme PPE")
+![Embleme PPE](/images/logo_embleme_ppe_fusion.jpg "Embleme PPE")

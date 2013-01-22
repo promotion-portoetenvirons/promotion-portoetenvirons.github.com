@@ -9,13 +9,13 @@ categories: menuppe
 ### EDUCATION
 
 
-Le  premier objectif du volet éducatif est tout simplement la création d’un centre de lecture, et même démunis d’éducation alphabétique. Le centre PPE d’information et d’éducation souhaiterait surtout que les élèves de tous les nivaux, du primaire à la terminale des collèges et lycées viennent s’y documenter. Une autre ambition de l’association est de promouvoir l’art traditionnel de la région dans une petite galerie exposant masques, statuettes, photos et dessins. Ce dernier projet valoriserait probablement l’histoire de la région très riche en évènements.
+Le  premier objectif du volet éducatif est tout simplement la création d’un centre de lecture pour tous, et même d'apprentissage pour ceux démunis d’éducation alphabétique. Le centre PPE d’information et d’éducation souhaiterait surtout que les élèves de tous les nivaux, du primaire à la terminale des collèges et lycées viennent s’y documenter. Une autre ambition de l’association est de promouvoir l’art traditionnel de la région dans une petite galerie exposant masques, statuettes, photos et dessins. Ce dernier projet valoriserait probablement l’histoire de la région très riche en évènements.
 
 
 ### SANTE
 
-Nous ne sommes pas des professionnels de la santé, non loin de là !
-Comme dans la grande mojorité des villages au Togo, le gouvernement a mis en place des petits de santé ou des dispensaires. Le but de notre association sera de porter une aide à ces centres au travers des dons de médicaments ou matériels que nous solliciterons auprès des organismes qualifiés. Si parallèlement à cela,  nous obtenons des autorités sanitaires l’aval de l’ouverture d’une petite antité pour soigner les bobos, prendre la tension artérielle de la population locale et environnate afin de les diriger vers les centres de soin, nous aurions également fait un pas important dans notre souci d’ aider.
+Nous ne sommes pas des professionnels de la santé, loin de là !
+Comme dans la grande mojorité des villages au Togo, le gouvernement a mis en place des petits centres de santé ou des dispensaires. Le but de notre association sera de porter une aide à ces centres au travers des dons de médicaments ou matériels que nous solliciterons auprès des organismes qualifiés. Si parallèlement à cela,  nous obtenons des autorités sanitaires l’aval de l’ouverture d’une petite antité pour soigner les bobos, prendre la tension artérielle de la population locale et environnate afin de les diriger vers les centres de soin, nous aurions également fait un pas important dans notre souci d’ aider.
 
 ### SPORT
 

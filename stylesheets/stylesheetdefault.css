@@ -484,7 +484,7 @@ Small Device Styles
 .inner_subheaderR{
   position: relative;
   float:right;
-  margin: -20px 0px;
+  margin-top: -20px;
 }
 
 .inner_body {

@@ -304,11 +304,13 @@ Full-Width Styles
 .inner_subheaderR2 {
   position: absolute;
   float:right;
+  margin: 0px 110px;
 }
 
 .inner_subheaderR3 {
   position: absolute;
   float:right;
+  margin: 200px 110px;
 }
 
 .inner_footerL {

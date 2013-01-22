@@ -40,16 +40,16 @@ div.figure p {
   width:150px;
 }
 
+#inner_subheaderR3 h6{
+	margin: -10px 0;
+}
+
 .floatL{
 float:left;
 }
 
 .floatR{
 float:right;
-}
-
-.marginH6{
-margin: -10px 0;
 }
 
 label{

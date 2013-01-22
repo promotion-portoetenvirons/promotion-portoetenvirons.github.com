@@ -30,6 +30,10 @@ float:left;
 float:right;
 }
 
+.marginH6{
+margin: 0 0;
+}
+
 label{
     display: block;
     width: 160px;

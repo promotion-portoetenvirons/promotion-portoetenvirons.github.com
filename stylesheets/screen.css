@@ -40,6 +40,10 @@ input{
   width:65%;
 }
 
+textarea{
+  width:65%;
+}
+
 button{
    margin-left:160px;
 }

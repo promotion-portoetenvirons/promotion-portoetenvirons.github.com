@@ -6,7 +6,5 @@
 	### TOGO
 </div>
 <div class="inner_subheaderR3" markdown="1">	
-	###### AGBODRAFO
-	
-	######(PORTO-SEGURO)
+	###### AGBODRAFO(PORTO-SEGURO)
 </div>

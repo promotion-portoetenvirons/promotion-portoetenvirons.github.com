@@ -294,7 +294,7 @@ Full-Width Styles
 .inner_subheaderR{
   position: relative;
   float:right;
-  margin: -20px 60px;
+  margin: -20px 10%;
 }
 
 .inner_footerL {
@@ -484,7 +484,7 @@ Small Device Styles
 .inner_subheaderR{
   position: relative;
   float:right;
-  margin: -20px 60px;
+  margin: -20px 10%;
 }
 
 .inner_body {

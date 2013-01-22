@@ -297,24 +297,6 @@ Full-Width Styles
   margin: -10px 0px;
 }
 
-.inner_subheaderR1 {
-  position: absolute;
-  float:left;
-}
-
-.inner_subheaderR2 {
-  position: absolute;
-  float:right;
-  margin: 0px 110px;
-}
-
-.inner_subheaderR3 {
-  position: absolute;
-  float:right;
-  margin: 200px 110px;
-  width:150px;
-}
-
 .inner_footerL {
   position: absolute;
   max-width: 25%;
@@ -495,26 +477,14 @@ Small Device Styles
 }
 
 .inner_subheaderL {
-  position: absolute;
+  position: relative;
   float:left;
 }
 
-.inner_subheaderR1 {
-  position: absolute;
+.inner_subheaderR{
+  position: relative;
   float:right;
-  margin: -2% 0 0 95%;
-}
-
-.inner_subheaderR2 {
-  position: absolute;
-  float:right;
-  margin: -2% 0 0 110%;
-}
-
-.inner_subheaderR3 {
-  position: absolute;
-  float:right;
-  margin: 22% 0 0 110%;
+  margin: -10px 0px;
 }
 
 .inner_body {

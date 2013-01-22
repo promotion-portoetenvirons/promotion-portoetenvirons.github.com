@@ -287,32 +287,28 @@ Full-Width Styles
 }
 
 .inner_subheaderL {
-  position: absolute;
+  position: relative;
   float:left;
 }
 
 .inner_subheaderR{
-  position: absolute;
+  position: relative;
   float:right;
 }
 
 .inner_subheaderR1 {
   position: absolute;
   float:left;
-  margin: -2% 0 0 92%;
 }
 
 .inner_subheaderR2 {
   position: absolute;
   float:right;
-  margin: -2% 0 0 105%;
 }
 
 .inner_subheaderR3 {
   position: absolute;
   float:right;
-  margin: 15% 0 0 105%;
-  width:150px;
 }
 
 .inner_footerL {

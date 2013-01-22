@@ -86,7 +86,6 @@ h1 {
 h2 {
   padding-bottom: 10px;
   font-size: 32px;
-  /*background: url('../images/bg_hr.png') repeat-x bottom;*/
 }
 
 h3 {
@@ -292,9 +291,14 @@ Full-Width Styles
   float:left;
 }
 
-.inner_subheaderR1 {
+.inner_subheaderR{
   position: absolute;
   float:right;
+}
+
+.inner_subheaderR1 {
+  position: absolute;
+  float:left;
   margin: -2% 0 0 92%;
 }
 

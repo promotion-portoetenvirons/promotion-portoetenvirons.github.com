@@ -448,13 +448,6 @@ Small Device Styles
   #downloads {
     display: none;
   }
-
-.inner {
-	position: relative;
-    min-width: 67%;
-    max-width: 100%;
-	margin: 0 25%; 
-  }
   
 .inner_menu {
   position: absolute;
@@ -487,9 +480,19 @@ Small Device Styles
   margin-top: -20px;
 }
 
+.inner {
+  position: relative;
+  max-width: 100%;
+  min-height:200px;
+  padding: 20px 10px;
+  margin: 0 25%;
+}
+
 .inner_body {
   position: relative;
   max-width: 100%;
+  min-height:400px;
+  padding: 20px 10px;
   margin: 0 25%; 
 }
 

@@ -280,7 +280,7 @@ Full-Width Styles
 
 .inner_headerL {
   position: relative;
-  max-width: 80%;
+  max-width: 53%;
   min-height:230px;
   padding: 20px 10px;
   margin: 0 20%;
@@ -470,7 +470,7 @@ Small Device Styles
 
 .inner_headerL {
   position: relative;
-  max-width: 60%;
+  max-width: 53%;
   min-height:230px;
   padding: 20px 10px;
   margin: 0 12%;

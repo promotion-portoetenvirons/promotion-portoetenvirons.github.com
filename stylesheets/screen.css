@@ -45,10 +45,16 @@ div.figure p {
 
 #inner_subheader h5{
 	margin: -30px 0;
+	color: #FFFFFF;
+}
+
+#inner_subheaderR2 h3{
+	color: #FFFFFF;
 }
 
 #inner_subheaderR3 h6{
 	margin: -10px 0;
+	color: #FFFFFF;
 }
 
 .floatL{

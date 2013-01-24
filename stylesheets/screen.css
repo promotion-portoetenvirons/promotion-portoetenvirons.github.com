@@ -22,6 +22,9 @@ div.figure p {
 #lien_externe{
 }
 
+#inner_subheader{
+}
+
 #inner_subheaderR1 {
   position: absolute;
   float:left;
@@ -38,6 +41,10 @@ div.figure p {
   float:right;
   margin: 200px 110px;
   width:130px;
+}
+
+#inner_subheader h5{
+	margin: -10px 0;
 }
 
 #inner_subheaderR3 h6{

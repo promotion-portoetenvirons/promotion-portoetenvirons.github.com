@@ -299,15 +299,15 @@ Full-Width Styles
 
 .inner_footerL {
   position: absolute;
-  max-width: 25%;
-  margin: 0 25%;
+  max-width: 30%;
+  margin: 0 20% 0 20%;
   float:left;
 }
 
 .inner_footerR {
   position: relative;
-  max-width: 25%;
-  margin: 0 25%;
+  max-width: 30%;
+  margin: 0 20% 0 25%;
   float:right;
 }
 
@@ -317,7 +317,7 @@ Full-Width Styles
   max-width: 100%;
   min-height:200px;
   padding: 20px 10px;
-  margin: 0 25%;
+  margin: 0% 15% 0% 25%; 
 }
 
 .inner_body {
@@ -325,7 +325,7 @@ Full-Width Styles
   max-width: 100%;
   min-height:400px;
   padding: 20px 10px;
-  margin: 0 25%; 
+  margin: 0% 15% 0% 25%;
 }
 
 #forkme_banner {
@@ -485,7 +485,7 @@ Small Device Styles
   max-width: 100%;
   min-height:200px;
   padding: 20px 10px;
-  margin: 0 25%;
+  margin: 0% 15% 0% 25%; 
 }
 
 .inner_body {
@@ -493,7 +493,21 @@ Small Device Styles
   max-width: 100%;
   min-height:400px;
   padding: 20px 10px;
-  margin: 0 25%; 
+  margin: 0% 15% 0% 25%; 
+}
+
+.inner_footerL {
+  position: absolute;
+  max-width: 30%;
+  margin: 0 20% 0 20%;
+  float:left;
+}
+
+.inner_footerR {
+  position: relative;
+  max-width: 30%;
+  margin: 0 20% 0 25%;
+  float:right;
 }
 
   #project_title {

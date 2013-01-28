@@ -86,7 +86,6 @@ h1 {
 h2 {
   padding-bottom: 10px;
   font-size: 32px;
-  /*background: url('../images/bg_hr.png') repeat-x bottom;*/
 }
 
 h3 {
@@ -281,46 +280,34 @@ Full-Width Styles
 
 .inner_headerL {
   position: relative;
-  max-width: 80%;
+  max-width: 53%;
   min-height:230px;
   padding: 20px 10px;
   margin: 0 20%;
 }
 
 .inner_subheaderL {
-  position: absolute;
+  position: relative;
   float:left;
 }
 
-.inner_subheaderR1 {
-  position: absolute;
+.inner_subheaderR{
+  position: relative;
   float:right;
-  margin: -2% 0 0 95%;
-}
-
-.inner_subheaderR2 {
-  position: absolute;
-  float:right;
-  margin: -2% 0 0 110%;
-}
-
-.inner_subheaderR3 {
-  position: absolute;
-  float:right;
-  margin: 22% 0 0 110%;
+  margin-top: -20px;
 }
 
 .inner_footerL {
   position: absolute;
-  max-width: 25%;
-  margin: 0 25%;
+  max-width: 30%;
+  margin: 0 20% 0 20%;
   float:left;
 }
 
 .inner_footerR {
   position: relative;
-  max-width: 25%;
-  margin: 0 25%;
+  max-width: 30%;
+  margin: 0 20% 0 25%;
   float:right;
 }
 
@@ -330,7 +317,7 @@ Full-Width Styles
   max-width: 100%;
   min-height:200px;
   padding: 20px 10px;
-  margin: 0 25%;
+  margin: 0% 15% 0% 25%; 
 }
 
 .inner_body {
@@ -338,7 +325,7 @@ Full-Width Styles
   max-width: 100%;
   min-height:400px;
   padding: 20px 10px;
-  margin: 0 25%; 
+  margin: 0% 15% 0% 25%;
 }
 
 #forkme_banner {
@@ -461,13 +448,6 @@ Small Device Styles
   #downloads {
     display: none;
   }
-
-.inner {
-	position: relative;
-    min-width: 67%;
-    max-width: 100%;
-	margin: 0 25%; 
-  }
   
 .inner_menu {
   position: absolute;
@@ -483,39 +463,51 @@ Small Device Styles
 
 .inner_headerL {
   position: relative;
-  max-width: 80%;
+  max-width: 53%;
   min-height:230px;
   padding: 20px 10px;
-  margin: 0 20%;
+  margin: 0 12%;
 }
 
 .inner_subheaderL {
-  position: absolute;
+  position: relative;
   float:left;
 }
 
-.inner_subheaderR1 {
-  position: absolute;
+.inner_subheaderR{
+  position: relative;
   float:right;
-  margin: -2% 0 0 95%;
+  margin-top: -20px;
 }
 
-.inner_subheaderR2 {
-  position: absolute;
-  float:right;
-  margin: -2% 0 0 110%;
-}
-
-.inner_subheaderR3 {
-  position: absolute;
-  float:right;
-  margin: 22% 0 0 110%;
+.inner {
+  position: relative;
+  max-width: 100%;
+  min-height:200px;
+  padding: 20px 10px;
+  margin: 0% 15% 0% 25%; 
 }
 
 .inner_body {
   position: relative;
   max-width: 100%;
-  margin: 0 25%; 
+  min-height:400px;
+  padding: 20px 10px;
+  margin: 0% 15% 0% 25%; 
+}
+
+.inner_footerL {
+  position: absolute;
+  max-width: 30%;
+  margin: 0 20% 0 20%;
+  float:left;
+}
+
+.inner_footerR {
+  position: relative;
+  max-width: 30%;
+  margin: 0 20% 0 25%;
+  float:right;
 }
 
   #project_title {
@@ -545,6 +537,7 @@ Small Device Styles
   h6 {
     font-size: 12px;
   }
+  
 
   code, pre {
     min-width: 320px;

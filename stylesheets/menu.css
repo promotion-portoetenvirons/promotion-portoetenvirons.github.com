@@ -9,7 +9,7 @@
 	background: none repeat scroll 0 0 #222222;
     /*border: 1px solid #660000;*/
 	border: 1px solid #222222;
-   /* color: #FFFFFF;*/
+   /*color: #FFFFFF;*/
     color:red;
     margin-bottom: 1px;
 	list-style: none; 
@@ -17,7 +17,7 @@
 #nav li a {
     /*background: none repeat scroll 0 0 #CC0000;*/
 	background: none repeat scroll 0 0 #222222;
-    color: #FFFFFF;
+    /*color: #FFFFFF;*/
 	color:red;
     display: block;
     font: 1em/1em "Trebuchet MS",Arial,sans-serif;

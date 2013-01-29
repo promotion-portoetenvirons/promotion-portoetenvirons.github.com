@@ -22,7 +22,7 @@ Email : [amlassey@hotmail.com](#)
 </div>  
 QUALITE: Association de bienfaisance  
 
-Boîte Postale 52 Agbodrafo / Porto Seguro
+Boîte Postale 52  Agbodrafo/Porto Seguro
 		
 Préfecture des Lacs  TOGO
 

@@ -3,13 +3,15 @@
 
 PRESIDENT: Kpoti Sikeli LASSEY 
 
+<div id="lien_adresse_mail" markdown="1">
 Email : [promotion.portoee@orange.fr](#)
+</div>
 
 QUALITE: Association de bienfaisance 
 	
 1, Villa de l’Eau Claire 
 
-77200 TORCY
+77200 TORCY FRANCE
 
 Portable : +33(0)679377284
 		

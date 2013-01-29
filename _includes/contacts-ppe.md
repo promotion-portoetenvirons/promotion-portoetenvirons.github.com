@@ -2,11 +2,9 @@
 <div class="inner_footerL" markdown="1">
 
 PRESIDENT: Kpoti Sikeli LASSEY 
-
 <div id="lien_adresse_mail" markdown="1">
 Email : [promotion.portoee@orange.fr](#)
 </div>
-
 QUALITE: Association de bienfaisance 
 	
 1, Villa de l’Eau Claire 

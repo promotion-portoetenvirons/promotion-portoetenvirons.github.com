@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GALLERIE DE PHOTOS D’AGBODRAFO
+title: GALERIE DE PHOTOS D’AGBODRAFO
 categories: menuppe
 ---
 

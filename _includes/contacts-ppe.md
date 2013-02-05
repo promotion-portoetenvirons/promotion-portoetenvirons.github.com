@@ -1,7 +1,7 @@
 
 <div class="inner_footerL" markdown="1">
 
-PRESIDENT: Kpoti Sikeli LASSEY 
+PRESIDENT: Kpoti Sikéli LASSEY 
 <div id="lien_adresse_mail">
 Email : [promotion.portoee@orange.fr](#)
 </div>

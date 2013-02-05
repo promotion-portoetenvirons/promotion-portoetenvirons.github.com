@@ -50,7 +50,8 @@ color:red;
 #inner_subheader h5{
 	margin: -30px 0;
 	background-color: red;
-        color: black;
+    color: black;
+	text-align:center;
 }
 
 #inner_subheaderR2 h3{

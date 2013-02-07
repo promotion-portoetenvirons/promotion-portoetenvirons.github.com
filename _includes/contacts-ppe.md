@@ -1,31 +1,41 @@
 
 <div class="inner_footerL" markdown="1">
-
-PRESIDENT: Kpoti Sikéli LASSEY 
-<div id="lien_adresse_mail">
+<div markdown="1">
+PRESIDENT: Kpoti Sikeli LASSEY 
+</div>
+<div id="lien_adresse_mail" markdown="1">
 Email : [promotion.portoee@orange.fr](#)
 </div>
+<div markdown="1">
 QUALITE: Association de bienfaisance 
-	
+</div>	
+<div markdown="1">
 1, Villa de l’Eau Claire 
-
+</div>
+<div markdown="1">
 77200 TORCY FRANCE
-
+</div>
+<div markdown="1">
 Portable : +33(0)679377284
-		
+</div>		
 </div>
 <div class="inner_footerR" markdown="1">
-
+<div markdown="1">
 VICE PRESIDENT : Sewa Amen Senam LASSEY
-<div id="lien_adresse_mail">
+</div>
+<div id="lien_adresse_mail" markdown="1">
 Email : [amlassey@hotmail.com](#)
 </div>  
+<div markdown="1">
 QUALITE: Association de bienfaisance  
-
+</div>
+<div markdown="1">
 Boîte Postale 52 Agbodrafo/Porto Seguro
-		
+</div>
+<div markdown="1">		
 Préfecture des Lacs TOGO
-
+</div>
+<div markdown="1">
 Portable : +22890179602
-
-</div>			 
+</div>
+</div> 

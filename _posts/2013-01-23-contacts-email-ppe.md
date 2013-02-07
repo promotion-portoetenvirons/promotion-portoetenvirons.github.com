@@ -15,7 +15,7 @@ categories: menuppe
 <textarea id="body" name="body" rows="10" cols="47" markdown="1">Votre Message</textarea>
 <br/>
 
-<button type="submit" markdown="1">Envoyer formulaire</button>
-<button type="reset" markdown="1">Effacer</button>
+<input type="submit" markdown="1" value="Envoyer formulaire" />
+<input type="reset" markdown="1" value="Effacer" />
 <br/>
 </form>

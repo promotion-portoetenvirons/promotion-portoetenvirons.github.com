@@ -77,7 +77,7 @@ label{
     float: left;
 }
 
-input{
+input[type="text"]{
   width:65%;
 }
 
@@ -85,7 +85,7 @@ textarea{
   width:65%;
 }
 
-button{
+input[type="submit"],input[type="reset"]{
    margin-left:160px;
 }
 

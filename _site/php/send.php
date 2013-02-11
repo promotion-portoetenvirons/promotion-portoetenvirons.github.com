@@ -42,7 +42,7 @@ if($message == "")
 $content = $nom."<br /><br />".$email."<br /><br />".$message;
  
 // envoit de l'email
-if(mail("votreadresse@domaine.com", "Le titre de votre email", $content))
+if(mail("holmeskelly78@gmail.com", "Le titre de votre email", $content))
 {
     echo json_encode(array(
                             "result" => true

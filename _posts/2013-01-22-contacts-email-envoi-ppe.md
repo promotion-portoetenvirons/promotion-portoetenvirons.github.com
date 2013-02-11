@@ -2,12 +2,12 @@
 layout: post
 title: CONTACTS
 categories: menuppe
-published: false
+published: true
 ---
 
 ## {{ page.title }}
 
-<form id="ajax_form" action="send.php" method="post" markdown="1">
+<form id="ajax_form" action="/php/send.php" method="post" markdown="1">
 <label for="nom" markdown="1">Nom et prénom </label> 
 <input id="nom" type="text" name="nom" markdown="1" maxlength="40" />
 <br/>
@@ -20,8 +20,8 @@ published: false
 <textarea id="message" name="message" rows="10" cols="47">Votre Message</textarea>
 <br/>
 
-<button type="submit" markdown="1">Envoyer formulaire</button>
-<button type="reset" markdown="1">Effacer</button>
+<input type="submit" markdown="1" value="Envoyer formulaire" />
+<input type="reset" markdown="1" value="Effacer" />
 <br/>
 </form>
 

@@ -59,7 +59,8 @@ if($message == "")
 }
 
 /* Destinataire (votre adresse e-mail) */
-$to = 'promotion.portoetenvirons@gmail.com';
+/* $to = 'promotion.portoetenvirons@gmail.com'; */
+$to = 'promotion.portoee@orange.fr';
 
 /* En-têtes de l'e-mail */
 $headers = 'From: '.$nom.' <'.$email.'>'."\r\n\r\n";

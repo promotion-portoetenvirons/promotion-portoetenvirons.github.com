@@ -2,7 +2,7 @@
 layout: post
 title: CONTACTS
 categories: menuppe
-published: true
+published: false
 ---
 
 ## {{ page.title }}

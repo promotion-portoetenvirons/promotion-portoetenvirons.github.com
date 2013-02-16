@@ -6,21 +6,24 @@
 }
 #nav li {
     /*background: none repeat scroll 0 0 #CC0000;*/
-	background: none repeat scroll 0 0 #01DE17;
+    background: none repeat scroll 0 0 #01DE17;
     /*border: 1px solid #660000;*/
-	border: 1px solid #222222;
+    border: 1px solid #222222;
     /*color: #FFFFFF;*/
     color:red;
     margin-bottom: 1px;
-	list-style: none; 
+    list-style: none; 
 }
 #nav li a {
     /*background: none repeat scroll 0 0 #CC0000;*/
-	background: none repeat scroll 0 0 #01DE17;
+    background: none repeat scroll 0 0 #01DE17;
     /*color: #FFFFFF;*/
-	color:red;
+    color:red;
     display: block;
-    font: 1em/1em "Trebuchet MS",Arial,sans-serif;
+    /*font: 1em/1em "Trebuchet MS",Arial,sans-serif;*/
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+    font-weight:600;
+    font-size:10;
     padding: 4px 0;
     text-align: center;
     text-decoration: none;

@@ -5,7 +5,7 @@ categories: menuppe
 published: false
 ---
 
-## {{ page.title }}
+### {{ page.title }}
 
 <label for="nometprenom" markdown="1">Nom et prénom </label> 
 <input id="nometprenom" type="text" name="nometprenom" markdown="1" maxlength="40" />

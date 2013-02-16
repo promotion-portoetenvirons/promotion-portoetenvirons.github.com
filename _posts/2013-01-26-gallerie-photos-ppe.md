@@ -4,7 +4,7 @@ title: GALERIE DE PHOTOS D’AGBODRAFO
 categories: menuppe
 ---
 
-## {{ page.title }}
+### {{ page.title }}
 
 <div id="sliderPost" markdown="1">
 <div class="floatL" markdown="1">

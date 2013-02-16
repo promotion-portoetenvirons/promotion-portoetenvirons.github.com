@@ -5,7 +5,7 @@ categories: menuppe
 published: true
 ---
 
-## {{ page.title }}
+### {{ page.title }}
 
 <form id="ajax_form" action="/php/send.php" method="post" markdown="1">
 <label for="nom" markdown="1">Nom et prénom </label> 

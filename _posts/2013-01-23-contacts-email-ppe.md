@@ -5,7 +5,7 @@ categories: menuppe
 published: false
 ---
 
-## {{ page.title }}
+### {{ page.title }}
 
 <form action="mailto:promotion.portoetenvirons@gmail.com" markdown="1">
 <label for="subject" markdown="1">Objet </label> 

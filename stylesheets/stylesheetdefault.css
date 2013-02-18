@@ -516,6 +516,12 @@ Small Device Styles
   font-size: 32px;
   }
 
+  #footer_wrap {
+  background: #01DE17;
+  font-size: 12px;
+  font-weight:600;
+  }
+
   h1 {
     font-size: 28px;
   }

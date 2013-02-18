@@ -323,7 +323,7 @@ Full-Width Styles
 .inner_body {
   position: relative;
   max-width: 100%;
-  min-height:400px;
+  min-height:500px;
   padding: 20px 10px;
   margin: 0% 15% 0% 25%;
 }
@@ -493,7 +493,7 @@ Small Device Styles
 .inner_body {
   position: relative;
   max-width: 100%;
-  min-height:400px;
+  min-height:500px;
   padding: 20px 10px;
   margin: 0% 15% 0% 25%; 
 }

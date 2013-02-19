@@ -78,14 +78,15 @@ $sujet = "Contact Association PPE";
 // envoit de l'email
 if(mail($to,$sujet,$content,$headers))
 {
-    echo json_encode(array(
+   /* echo json_encode(array(
                             "result" => true,
 							"message" => "Votre message a été envoyé avec succès"
-    ));
+    )); */
+	echo 'Votre message a été envoyé avec succès';
     $nom="";
     $email="";
     $message="";
-    return true;
+    /*return true;*/
 }
 else
 {

@@ -288,6 +288,7 @@ Full-Width Styles
 
 .inner_subheaderL {
   position: relative;
+  margin:0 15%;
   float:left;
 }
 
@@ -473,6 +474,7 @@ Small Device Styles
 
 .inner_subheaderL {
   position: relative;
+  margin:0 15%;
   float:left;
 }
 

@@ -80,7 +80,7 @@ if(mail($to,$sujet,$content,$headers))
 {
     echo json_encode(array(
                             "result" => true,
-			    "message" => "Votre message a été envoyé avec succès"
+							"message" => "Votre message a été envoyé avec succès"
     ));
     $nom="";
     $email="";

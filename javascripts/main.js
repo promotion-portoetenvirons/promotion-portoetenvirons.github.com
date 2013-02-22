@@ -2,12 +2,13 @@ $(document).ready(function(){
     $('#lien_externe p a').attr('target','_blank');
 });  
 
+
 $(document).ready(function(){
     $("#ajax_form").submit(function(e){
         var scope = $(this);
         var nom = $("#nom").val();
         var email = $("#email").val();
-        var message = $("#message").val();
+        var messagecontent = $("#messagecontent").val();
  
         $.ajax({
             type: scope.attr("method"),
@@ -15,8 +16,17 @@ $(document).ready(function(){
             data: scope.serialize(),
             dataType: "json",
             success: function(data){
-                if(data.result)
+		if(data.result && !data.mail)
+		{
+		    alert(data.message);
+                    $(data.input).focus();
+		}
+                else if(data.result && data.mail)
                 {
+		    $("#nom").val('');
+                    $("#email").val('');
+		    $("#messagecontent").val('');
+		    alert(data.message);
                     scope.html("Message envoyé, merci");
                 }
                 else
@@ -26,8 +36,9 @@ $(document).ready(function(){
                 }
             }
         });
- 
+ 	return false;
         e.preventDefault();
     });
  
 });
+

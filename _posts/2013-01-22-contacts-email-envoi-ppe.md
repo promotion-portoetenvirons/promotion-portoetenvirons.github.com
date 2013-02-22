@@ -2,7 +2,7 @@
 layout: post
 title: CONTACTS
 categories: menuppe
-published: true
+published: false
 ---
 
 ### {{ page.title }}
@@ -16,8 +16,8 @@ published: true
 <input id="email" type="text" name="email" markdown="1" maxlength="40" /> 
 <br/>
 
-<label for="message" markdown="1">Message </label> 
-<textarea id="message" name="message" rows="10" cols="47">Votre Message</textarea>
+<label for="messagecontent" markdown="1">Message </label> 
+<textarea id="messagecontent" name="messagecontent" rows="10" cols="47">Votre Message</textarea>
 <br/>
 
 <input type="submit" markdown="1" value="Envoyer formulaire" />

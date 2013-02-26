@@ -16,7 +16,7 @@ QUALITE: Association de bienfaisance
 77200 TORCY FRANCE
 </div>
 <div markdown="1">
-Portable : +33(0)679377284
+Portable : +33(0)676377284
 </div>		
 </div>
 <div class="inner_footerR" markdown="1">

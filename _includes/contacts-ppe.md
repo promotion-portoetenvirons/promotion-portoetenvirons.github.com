@@ -10,10 +10,10 @@ Email : [promotion.portoee@orange.fr](#)
 QUALITE: Association de bienfaisance 
 </div>	
 <div markdown="1">
-1, Villa de l’Eau Claire 
+41, rue Saint Liesne 
 </div>
 <div markdown="1">
-77200 TORCY FRANCE
+77000 MELUN FRANCE
 </div>
 <div markdown="1">
 Portable : +33(0)676377284/+33(0)665045212

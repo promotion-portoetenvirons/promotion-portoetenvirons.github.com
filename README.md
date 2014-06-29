@@ -17,8 +17,12 @@ Download [Github for Windows](https://windows.github.com/)
 
 Install it and identify yourself with the Github identifiers sent to you
 
-Clone the existing repository
+Clone the existing repository on windows desktop
 
+Access source files in windows explorer \Documents\GitHub\promotion-portoetenvirons.github.com
+
+Visualize the structure of the project; you can open all .md files
+in \Documents\GitHub\promotion-portoetenvirons.github.com\_posts
 
 How to Run Jekyll on Windows
 ----------------------------

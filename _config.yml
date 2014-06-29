@@ -4,6 +4,7 @@ includes:    ./_includes
 markdown: kramdown
 server_port: 4000
 pygments: true
+encoding: UTF-8
 kramdown:
   auto_ids: true
   footnote_nr: 1
